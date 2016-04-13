@@ -1,4 +1,4 @@
-# sputnik-test-mce
+# sputnik-flash-talk
 
 Sputnik flash-talk
 
