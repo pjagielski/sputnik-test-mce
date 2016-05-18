@@ -9,7 +9,7 @@ public class Test {
         if (test) {
             return str.length();
         }
-        return 2;
+        return 24;
     }
 
 }
