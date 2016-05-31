@@ -7,7 +7,7 @@ public class Test {
     public int method() {
       String str = null;
         if (test) {
-            return str.length();
+            return str.length( ) + 1;
         }
         return 24;
     }
