@@ -5,10 +5,11 @@ public class Test {
     public boolean test = false;
 
     public int method() {
+      String str = null;
         if (test) {
-            return 1;
+            return str.length( ) + 1;
         }
-        return 2;
+        return 24;
     }
 
 }
