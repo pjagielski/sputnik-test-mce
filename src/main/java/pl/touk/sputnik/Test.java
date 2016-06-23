@@ -5,7 +5,7 @@ public class Test {
     public boolean test = false;
 
     public int method() {
-      String str;
+      String str = null;
         if (test) {
             return str.length();
         }
